@@ -213,7 +213,7 @@ Il firmware integra comunicazione wireless, gestione dello stato, temporizzazion
 
 ## Autore
 
-Fabio Crivellaro
+**Fabio Crivellaro**
 
 Embedded / Firmware / Electronics
 
