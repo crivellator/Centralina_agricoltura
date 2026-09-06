@@ -2,7 +2,7 @@
 
 Centralina embedded per la gestione automatica e manuale di un impianto di irrigazione, sviluppata su **ESP32** e controllabile tramite **Bluetooth** da un'applicazione realizzata con **Virtuino**.
 
-Il codice originale, di Emiliano Pacenti, è stato ri-scritto per l'80%, la parte bluetooth di routing dei messaggi dall'app di Virtuino sono rimasti invariati.
+Il codice originale, di **Emiliano Pacenti**, è stato ri-scritto per l'80%, la parte bluetooth di routing dei messaggi dall'app di Virtuino sono rimasti invariati.
 
 Il sistema permette di configurare i parametri di irrigazione, gestire manualmente l'impianto e programmare cicli automatici con intervalli e durata configurabili.
 
